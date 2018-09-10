@@ -10,8 +10,7 @@ namespace Source_Control
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Gonna overwrite your code tho");
-            Console.WriteLine("new push!");
+            Console.WriteLine("I'm gonna push some code to Git :3");
 
         }
     }
